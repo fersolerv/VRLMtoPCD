@@ -1,16 +1,3 @@
-/*-----------------------------------------------------*/
-/*                                                                          */
-/*  Copyright (c) 2012 by ETH Zurich - IGP,                   */
-/*                     http://www.igp.ethz.ch/                     */
-/*-----------------------------------------------------*/
-// $Author$ Tobias K. Kohoutek
-//    $URL$ http://www.geometh.ethz.ch/people/kohtobia
-//    $Rev$ Lucas Amparo Barbosa
-//   $Date$ Apr 27, 2016
-/*------------------------------------------------------*/
-// VRMLtoPCD.cpp: transformation from wrl file to pcd
-//
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <iostream>             // for std::cout
